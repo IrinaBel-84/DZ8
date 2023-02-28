@@ -52,4 +52,5 @@ while (count <= row*row)
     count= count + 1;
 }
 
+
 PrintArr(array);
